@@ -1,0 +1,336 @@
+﻿Analyzing ASTRA...                                              
+
+   info - The imported package 'latlong2' isn't a dependency of the importing package - lib\core\constants\mysuru_data.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:latlong2/latlong.dart' - lib\core\constants\mysuru_data.dart:3:8 - uri_does_not_exist
+  error - Undefined class 'LatLng' - lib\core\constants\mysuru_data.dart:6:16 - undefined_class
+  error - Const variables must be initialized with a constant value - lib\core\constants\mysuru_data.dart:6:38 - const_initialized_with_non_constant_value
+  error - The method 'LatLng' isn't defined for the type 'MysurData' - lib\core\constants\mysuru_data.dart:6:38 - undefined_method
+  error - The name 'LatLng' isn't a type, so it can't be used as a type argument - lib\core\constants\mysuru_data.dart:117:15 - non_type_as_type_argument
+  error - The method 'LatLng' isn't defined for the type 'MysurData' - lib\core\constants\mysuru_data.dart:120:7 - undefined_method
+  error - The method 'LatLng' isn't defined for the type 'MysurData' - lib\core\constants\mysuru_data.dart:121:7 - undefined_method
+  error - The method 'LatLng' isn't defined for the type 'MysurData' - lib\core\constants\mysuru_data.dart:122:7 - undefined_method
+   info - Use 'const' for final variables initialized to a constant value - lib\core\constants\mysuru_data.dart:128:5 - prefer_const_declarations
+   info - Use 'const' for final variables initialized to a constant value - lib\core\constants\mysuru_data.dart:129:5 - prefer_const_declarations
+warning - The value of the field '_notifService' isn't used - lib\core\providers\app_provider.dart:46:29 - unused_field
+   info - Use 'const' with the constructor to improve performance - lib\core\services\location_service.dart:63:7 - prefer_const_constructors
+   info - The imported package 'mqtt_client' isn't a dependency of the importing package - lib\core\services\mqtt_service.dart:4:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:mqtt_client/mqtt_client.dart' - lib\core\services\mqtt_service.dart:4:8 - uri_does_not_exist
+   info - The imported package 'mqtt_client' isn't a dependency of the importing package - lib\core\services\mqtt_service.dart:5:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:mqtt_client/mqtt_server_client.dart' - lib\core\services\mqtt_service.dart:5:8 - uri_does_not_exist
+  error - Undefined class 'MqttServerClient' - lib\core\services\mqtt_service.dart:17:8 - undefined_class
+  error - Undefined class 'MqttConnectionState' - lib\core\services\mqtt_service.dart:18:3 - undefined_class
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:18:42 - undefined_identifier
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:23:47 - undefined_identifier
+  error - Undefined class 'MqttConnectionState' - lib\core\services\mqtt_service.dart:24:3 - undefined_class
+  error - The method 'MqttServerClient' isn't defined for the type 'MqttService' - lib\core\services\mqtt_service.dart:36:15 - undefined_method
+  error - The method 'MqttConnectMessage' isn't defined for the type 'MqttService' - lib\core\services\mqtt_service.dart:44:25 - undefined_method
+  error - Undefined name 'MqttQos' - lib\core\services\mqtt_service.dart:47:22 - undefined_identifier
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:51:26 - undefined_identifier
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:57:26 - undefined_identifier
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:63:29 - undefined_identifier
+  error - Undefined name 'MqttQos' - lib\core\services\mqtt_service.dart:74:9 - undefined_identifier
+  error - Undefined name 'MqttQos' - lib\core\services\mqtt_service.dart:78:41 - undefined_identifier
+  error - The name 'MqttReceivedMessage' isn't a type, so it can't be used as a type argument - lib\core\services\mqtt_service.dart:82:35 - non_type_as_type_argument
+  error - The name 'MqttMessage' isn't a type, so it can't be used as a type argument - lib\core\services\mqtt_service.dart:82:55 - non_type_as_type_argument
+  error - Undefined class 'MqttPublishMessage' - lib\core\services\mqtt_service.dart:84:15 - undefined_class
+  error - The name 'MqttPublishMessage' isn't a type, so it can't be used in an 'as' expression - lib\core\services\mqtt_service.dart:84:58 - cast_to_non_type
+  error - Undefined name 'MqttPublishPayload' - lib\core\services\mqtt_service.dart:85:32 - undefined_identifier
+  error - The method 'MqttClientPayloadBuilder' isn't defined for the type 'MqttService' - lib\core\services\mqtt_service.dart:137:21 - undefined_method
+  error - Undefined name 'MqttQos' - lib\core\services\mqtt_service.dart:139:35 - undefined_identifier
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:202:24 - undefined_identifier
+  error - Undefined name 'MqttConnectionState' - lib\core\services\mqtt_service.dart:207:24 - undefined_identifier
+warning - Unused import: 'dart:io' - lib\core\services\notification_service.dart:1:8 - unused_import
+warning - Unused import: 'package:firebase_messaging/firebase_messaging.dart' - lib\main.dart:2:8 - unused_import
+  error - The named parameter 'navigationBarColor' isn't defined - lib\main.dart:31:7 - undefined_named_parameter
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\main.dart:211:34 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:212:25 - prefer_const_constructors
+   info - The imported package 'flutter_map' isn't a dependency of the importing package - lib\screens\home\green_corridor_screen.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:flutter_map/flutter_map.dart' - lib\screens\home\green_corridor_screen.dart:3:8 - uri_does_not_exist
+   info - The imported package 'latlong2' isn't a dependency of the importing package - lib\screens\home\green_corridor_screen.dart:4:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:latlong2/latlong.dart' - lib\screens\home\green_corridor_screen.dart:4:8 - uri_does_not_exist
+   info - The imported package 'animate_do' isn't a dependency of the importing package - lib\screens\home\green_corridor_screen.dart:6:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:animate_do/animate_do.dart' - lib\screens\home\green_corridor_screen.dart:6:8 - uri_does_not_exist
+  error - Undefined class 'MapController' - lib\screens\home\green_corridor_screen.dart:26:9 - undefined_class
+  error - The method 'MapController' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:26:40 - undefined_method
+  error - The method 'showGreenCorridorActive' isn't defined for the type 'NotificationService' - lib\screens\home\green_corridor_screen.dart:55:27 - undefined_method
+  error - The name 'LatLng' isn't a type, so it can't be used as a type argument - lib\screens\home\green_corridor_screen.dart:77:8 - non_type_as_type_argument
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:94:34 - undefined_getter
+  error - The method 'FlutterMap' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:98:11 - undefined_method
+  error - The method 'MapOptions' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:100:22 - undefined_method
+  error - The method 'LatLng' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:101:30 - undefined_method
+  error - The getter 'currentPosition' isn't defined for the type 'LocationService' - lib\screens\home\green_corridor_screen.dart:102:27 - undefined_getter
+  error - The getter 'currentPosition' isn't defined for the type 'LocationService' - lib\screens\home\green_corridor_screen.dart:103:27 - undefined_getter
+  error - The method 'TileLayer' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:108:15 - undefined_method
+  error - The method 'PolylineLayer' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:115:15 - undefined_method
+  error - The method 'Polyline' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:117:19 - undefined_method
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:119:38 - undefined_getter
+  error - The method 'Polyline' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:123:19 - undefined_method
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:125:38 - undefined_getter
+  error - The method 'MarkerLayer' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:132:15 - undefined_method
+  error - The method 'MarkerLayer' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:137:15 - undefined_method
+  error - The method 'Marker' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:139:19 - undefined_method
+  error - The method 'LatLng' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:140:28 - undefined_method
+  error - The method 'MarkerLayer' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:149:15 - undefined_method
+  error - The method 'Marker' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:151:19 - undefined_method
+  error - The getter 'currentPosition' isn't defined for the type 'LocationService' - lib\screens\home\green_corridor_screen.dart:152:37 - undefined_getter
+  error - The name 'Marker' isn't a type, so it can't be used as a type argument - lib\screens\home\green_corridor_screen.dart:191:8 - non_type_as_type_argument
+  error - The getter 'signalGreen' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:197:27 - undefined_getter
+  error - The getter 'signalGreen' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:201:31 - undefined_getter
+  error - The getter 'signalYellow' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:204:31 - undefined_getter
+  error - The getter 'signalRed' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:207:31 - undefined_getter
+  error - The getter 'textMuted' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:210:31 - undefined_getter
+  error - The method 'Marker' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:214:14 - undefined_method
+  error - The method 'LatLng' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:215:16 - undefined_method
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:229:30 - undefined_getter
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:229:44 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:242:43 - deprecated_member_use
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:244:57 - undefined_getter
+  error - Invalid constant value - lib\screens\home\green_corridor_screen.dart:254:61 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:254:71 - undefined_getter
+  error - The getter 'titleMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\green_corridor_screen.dart:259:46 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type '_GreenCorridorScreenState' - lib\screens\home\green_corridor_screen.dart:276:14 - undefined_method
+  error - The getter 'greenGradient' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:280:33 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:284:34 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:303:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:340:39 - deprecated_member_use
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:365:30 - undefined_getter
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:365:44 - undefined_getter
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\home\green_corridor_screen.dart:375:59 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:384:55 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\green_corridor_screen.dart:386:82 - undefined_getter
+  error - Invalid constant value - lib\screens\home\green_corridor_screen.dart:414:49 - invalid_constant
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:414:59 - undefined_getter
+  error - Invalid constant value - lib\screens\home\green_corridor_screen.dart:420:43 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:420:53 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:445:38 - deprecated_member_use
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:464:26 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:468:30 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:500:30 - deprecated_member_use
+  error - The getter 'greenDim' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:537:35 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:540:37 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:540:63 - undefined_getter
+  error - The getter 'signalGreen' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:554:36 - undefined_getter
+  error - The getter 'signalGreen' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:558:42 - undefined_getter
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\home\green_corridor_screen.dart:568:38 - undefined_getter
+  error - The getter 'signalGreen' isn't defined for the type 'AppColors' - lib\screens\home\green_corridor_screen.dart:569:36 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\green_corridor_screen.dart:578:34 - undefined_getter
+  error - The getter 'greenCorridorLabel' isn't defined for the type 'AppTextStyles' - lib\screens\home\green_corridor_screen.dart:586:36 - undefined_getter
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\home\home_screen.dart:241:32 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:242:23 - prefer_const_constructors
+  error - Target of URI doesn't exist: '../../core/constants/app_colors.dart' - lib\screens\home\widgets\corridor_status_card.dart:2:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../core/constants/app_text_styles.dart' - lib\screens\home\widgets\corridor_status_card.dart:3:8 - uri_does_not_exist
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:83:17 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:84:17 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:88:19 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:89:19 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:95:28 - undefined_identifier
+  error - Invalid constant value - lib\screens\home\widgets\corridor_status_card.dart:118:24 - invalid_constant
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:118:24 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:125:22 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:125:55 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:131:24 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:133:43 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:137:24 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:138:26 - undefined_identifier
+  error - Invalid constant value - lib\screens\home\widgets\corridor_status_card.dart:147:30 - invalid_constant
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:147:30 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:149:36 - undefined_identifier
+  error - Invalid constant value - lib\screens\home\widgets\corridor_status_card.dart:155:22 - invalid_constant
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:155:22 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:162:24 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:172:20 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:174:39 - undefined_identifier
+  error - Invalid constant value - lib\screens\home\widgets\corridor_status_card.dart:179:48 - invalid_constant
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:179:48 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:183:24 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:184:26 - undefined_identifier
+  error - Invalid constant value - lib\screens\home\widgets\corridor_status_card.dart:203:24 - invalid_constant
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:203:24 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:207:22 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:207:55 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:214:18 - undefined_identifier
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:220:20 - undefined_identifier
+  error - Invalid constant value - lib\screens\home\widgets\corridor_status_card.dart:226:26 - invalid_constant
+  error - Undefined name 'AppColors' - lib\screens\home\widgets\corridor_status_card.dart:226:26 - undefined_identifier
+  error - Undefined name 'AppTextStyles' - lib\screens\home\widgets\corridor_status_card.dart:231:26 - undefined_identifier
+   info - The imported package 'animate_do' isn't a dependency of the importing package - lib\screens\home\widgets\notification_panel.dart:2:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:animate_do/animate_do.dart' - lib\screens\home\widgets\notification_panel.dart:2:8 - uri_does_not_exist
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:22:29 - deprecated_member_use
+  error - The method 'FadeInDown' isn't defined for the type 'NotificationPanel' - lib\screens\home\widgets\notification_panel.dart:27:20 - undefined_method
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:39:55 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:42:43 - deprecated_member_use
+  error - Invalid constant value - lib\screens\home\widgets\notification_panel.dart:55:66 - invalid_constant
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:55:76 - undefined_getter
+  error - The getter 'primaryDim' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:62:48 - undefined_getter
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:73:75 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:76:56 - undefined_getter
+  error - Invalid constant value - lib\screens\home\widgets\notification_panel.dart:83:66 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:83:76 - undefined_getter
+  error - Invalid constant value - lib\screens\home\widgets\notification_panel.dart:96:40 - invalid_constant
+  error - The getter 'signalGreen' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:96:50 - undefined_getter
+  error - The getter 'headlineMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:98:74 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:102:52 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type 'NotificationPanel' - lib\screens\home\widgets\notification_panel.dart:116:36 - undefined_method
+  error - The getter 'signalRed' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:141:26 - undefined_getter
+  error - The getter 'warning' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:143:26 - undefined_getter
+  error - The getter 'signalYellow' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:145:26 - undefined_getter
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:147:26 - undefined_getter
+  error - The getter 'primaryDim' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:176:58 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:179:43 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:179:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:188:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:203:47 - deprecated_member_use
+  error - The getter 'labelMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:217:57 - undefined_getter
+  error - The getter 'titleMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:221:59 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:225:40 - undefined_getter
+  error - Invalid constant value - lib\screens\home\widgets\notification_panel.dart:230:58 - invalid_constant
+  error - The getter 'textMuted' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:230:68 - undefined_getter
+  error - The getter 'monospace' isn't defined for the type 'AppTextStyles' - lib\screens\home\widgets\notification_panel.dart:234:44 - undefined_getter
+  error - The getter 'textMuted' isn't defined for the type 'AppColors' - lib\screens\home\widgets\notification_panel.dart:234:94 - undefined_getter
+   info - The imported package 'animate_do' isn't a dependency of the importing package - lib\screens\hospital_selection\hospital_selection_screen.dart:4:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:animate_do/animate_do.dart' - lib\screens\hospital_selection\hospital_selection_screen.dart:4:8 - uri_does_not_exist
+  error - The getter 'currentPosition' isn't defined for the type 'LocationService' - lib\screens\hospital_selection\hospital_selection_screen.dart:34:49 - undefined_getter
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:56:34 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:69:46 - deprecated_member_use
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:91:65 - undefined_getter
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:101:72 - undefined_getter
+  error - The getter 'headlineLarge' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:102:75 - undefined_getter
+  error - The getter 'bodyLarge' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:116:42 - undefined_getter
+  error - Invalid constant value - lib\screens\hospital_selection\hospital_selection_screen.dart:119:67 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:119:77 - undefined_getter
+  error - Invalid constant value - lib\screens\hospital_selection\hospital_selection_screen.dart:122:68 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:122:78 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:151:83 - undefined_getter
+  error - The getter 'labelLarge' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:156:54 - undefined_getter
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:157:78 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:176:42 - undefined_getter
+  error - The method 'FadeInUp' isn't defined for the type '_HospitalSelectionScreenState' - lib\screens\hospital_selection\hospital_selection_screen.dart:188:30 - undefined_method
+  error - The getter 'currentPosition' isn't defined for the type 'LocationService' - lib\screens\hospital_selection\hospital_selection_screen.dart:194:61 - undefined_getter
+  error - The getter 'currentPosition' isn't defined for the type 'LocationService' - lib\screens\hospital_selection\hospital_selection_screen.dart:195:61 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:256:47 - undefined_getter
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:270:37 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:271:45 - deprecated_member_use
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:276:47 - undefined_getter
+  error - The getter 'headlineMedium' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:291:77 - undefined_getter
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:302:47 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:303:55 - deprecated_member_use
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:312:59 - undefined_getter
+  error - The getter 'labelMedium' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:319:50 - undefined_getter
+  error - The getter 'headlineLarge' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:333:44 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:333:84 - undefined_getter
+  error - The getter 'labelMedium' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:337:44 - undefined_getter
+  error - Invalid constant value - lib\screens\hospital_selection\hospital_selection_screen.dart:349:63 - invalid_constant
+  error - The getter 'textMuted' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:349:73 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:352:70 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:368:55 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\hospital_selection\hospital_selection_screen.dart:370:53 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\hospital_selection\hospital_selection_screen.dart:383:46 - undefined_getter
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\login\login_screen.dart:366:26 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\login\login_screen.dart:367:17 - prefer_const_constructors
+   info - The imported package 'animate_do' isn't a dependency of the importing package - lib\screens\onboarding\biometric_screen.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:animate_do/animate_do.dart' - lib\screens\onboarding\biometric_screen.dart:3:8 - uri_does_not_exist
+  error - Undefined name 'BiometricAuthResult' - lib\screens\onboarding\biometric_screen.dart:52:12 - undefined_identifier
+  error - Undefined name 'BiometricAuthResult' - lib\screens\onboarding\biometric_screen.dart:55:12 - undefined_identifier
+  error - Undefined name 'BiometricAuthResult' - lib\screens\onboarding\biometric_screen.dart:62:12 - undefined_identifier
+  error - Undefined name 'BiometricAuthResult' - lib\screens\onboarding\biometric_screen.dart:68:12 - undefined_identifier
+  error - The method 'authenticateWithPIN' isn't defined for the type 'AuthService' - lib\screens\onboarding\biometric_screen.dart:94:51 - undefined_method
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:123:34 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type '_BiometricScreenState' - lib\screens\onboarding\biometric_screen.dart:132:15 - undefined_method
+  error - The getter 'primaryDim' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:138:42 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:140:69 - deprecated_member_use
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\biometric_screen.dart:142:81 - undefined_getter
+  error - The getter 'displayLarge' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\biometric_screen.dart:147:44 - undefined_getter
+  error - The getter 'driverId' isn't defined for the type 'AuthService' - lib\screens\onboarding\biometric_screen.dart:151:30 - undefined_getter
+  error - The getter 'driverId' isn't defined for the type 'AuthService' - lib\screens\onboarding\biometric_screen.dart:153:41 - undefined_getter
+  error - The getter 'monospace' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\biometric_screen.dart:154:46 - undefined_getter
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:154:82 - undefined_getter
+  error - The method 'FadeIn' isn't defined for the type '_BiometricScreenState' - lib\screens\onboarding\biometric_screen.dart:170:17 - undefined_method
+  error - The getter 'primaryDim' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:175:51 - undefined_getter
+  error - The getter 'greenDim' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:175:74 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:179:49 - deprecated_member_use
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:180:41 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:187:75 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\biometric_screen.dart:194:50 - undefined_getter
+  error - The getter 'greenCorridor' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:195:79 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\biometric_screen.dart:227:46 - undefined_getter
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:227:83 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:250:47 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:253:40 - deprecated_member_use
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:262:59 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:284:65 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\biometric_screen.dart:316:34 - undefined_getter
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:316:71 - undefined_getter
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\onboarding\biometric_screen.dart:340:47 - undefined_getter
+   info - The imported package 'animate_do' isn't a dependency of the importing package - lib\screens\onboarding\onboarding_screen.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:animate_do/animate_do.dart' - lib\screens\onboarding\onboarding_screen.dart:3:8 - uri_does_not_exist
+  error - The method 'registerDriver' isn't defined for the type 'AuthService' - lib\screens\onboarding\onboarding_screen.dart:34:55 - undefined_method
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:54:34 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\onboarding_screen.dart:68:39 - deprecated_member_use
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:87:21 - undefined_method
+  error - The getter 'primaryDim' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:93:44 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\onboarding_screen.dart:95:71 - deprecated_member_use
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:110:52 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:119:21 - undefined_method
+  error - The getter 'displayLarge' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:121:80 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:124:21 - undefined_method
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:128:46 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:135:21 - undefined_method
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:140:21 - undefined_method
+  error - The getter 'monospace' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:145:46 - undefined_getter
+  error - Invalid constant value - lib\screens\onboarding\onboarding_screen.dart:148:73 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:148:83 - undefined_getter
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:164:21 - undefined_method
+  error - The method 'FadeInDown' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:169:21 - undefined_method
+  error - The getter 'monospace' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:174:46 - undefined_getter
+  error - Invalid constant value - lib\screens\onboarding\onboarding_screen.dart:177:79 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:177:89 - undefined_getter
+  error - The method 'FadeIn' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:191:23 - undefined_method
+  error - The getter 'primaryDim' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:196:46 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\onboarding_screen.dart:198:73 - deprecated_member_use
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:205:78 - undefined_getter
+  error - The method 'FadeInUp' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:213:21 - undefined_method
+  error - The method 'FadeIn' isn't defined for the type '_OnboardingScreenState' - lib\screens\onboarding\onboarding_screen.dart:249:21 - undefined_method
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:256:63 - undefined_getter
+  error - Invalid constant value - lib\screens\onboarding\onboarding_screen.dart:260:67 - invalid_constant
+  error - The getter 'info' isn't defined for the type 'AppColors' - lib\screens\onboarding\onboarding_screen.dart:260:77 - undefined_getter
+  error - The getter 'bodyMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:265:54 - undefined_getter
+  error - The getter 'emergencyLabel' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:287:42 - undefined_getter
+  error - The getter 'labelMedium' isn't defined for the type 'AppTextStyles' - lib\screens\onboarding\onboarding_screen.dart:289:41 - undefined_getter
+   info - The imported package 'animate_do' isn't a dependency of the importing package - lib\screens\splash_screen.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:animate_do/animate_do.dart' - lib\screens\splash_screen.dart:3:8 - uri_does_not_exist
+  error - The method 'init' isn't defined for the type 'AuthService' - lib\screens\splash_screen.dart:38:23 - undefined_method
+  error - The getter 'isRegistered' isn't defined for the type 'AuthService' - lib\screens\splash_screen.dart:42:21 - undefined_getter
+  error - The getter 'bg' isn't defined for the type 'AppColors' - lib\screens\splash_screen.dart:62:34 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:87:50 - deprecated_member_use
+  error - The method 'FadeInUp' isn't defined for the type '_SplashScreenState' - lib\screens\splash_screen.dart:99:17 - undefined_method
+  error - The getter 'primaryGradient' isn't defined for the type 'AppColors' - lib\screens\splash_screen.dart:103:35 - undefined_getter
+  error - The method 'FadeInUp' isn't defined for the type '_SplashScreenState' - lib\screens\splash_screen.dart:117:17 - undefined_method
+  error - Invalid constant value - lib\screens\splash_screen.dart:125:30 - invalid_constant
+  error - The getter 'textSecondary' isn't defined for the type 'AppColors' - lib\screens\splash_screen.dart:125:40 - undefined_getter
+  error - The method 'FadeIn' isn't defined for the type '_SplashScreenState' - lib\screens\splash_screen.dart:134:17 - undefined_method
+  error - The getter 'border' isn't defined for the type 'AppColors' - lib\screens\splash_screen.dart:139:50 - undefined_getter
+   info - Use 'const' with the constructor to improve performance - lib\screens\splash_screen.dart:140:35 - prefer_const_constructors
+  error - The method 'FadeIn' isn't defined for the type '_SplashScreenState' - lib\screens\splash_screen.dart:148:17 - undefined_method
+  error - Invalid constant value - lib\screens\splash_screen.dart:154:30 - invalid_constant
+  error - The getter 'textMuted' isn't defined for the type 'AppColors' - lib\screens\splash_screen.dart:154:40 - undefined_getter
+  error - The method 'FadeIn' isn't defined for the type '_SplashScreenState' - lib\screens\splash_screen.dart:168:20 - undefined_method
+  error - Invalid constant value - lib\screens\splash_screen.dart:175:26 - invalid_constant
+  error - The getter 'textMuted' isn't defined for the type 'AppColors' - lib\screens\splash_screen.dart:175:36 - undefined_getter
+
+flutter : 316 issues 
+found. (ran in 3.3s)
+At line:1 char:1
++ flutter analyze 2>&1 | 
+Out-File -FilePath 
+analysis_output2.txt 
+-Encod ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (3  
+  16 issues found. (ran   
+  in 3.3s):String) [],    
+ RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

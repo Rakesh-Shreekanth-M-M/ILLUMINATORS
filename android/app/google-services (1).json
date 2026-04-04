@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071487368577",
+    "project_id": "astra-police",
+    "storage_bucket": "astra-police.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071487368577:android:ef953995d51d3e09f77c80",
+        "android_client_info": {
+          "package_name": "ASTRA.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBXsjLBinM-PRd3REfMoylmvUpHhxkrjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

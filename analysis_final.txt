@@ -1,0 +1,27 @@
+﻿Analyzing ASTRA...                                              
+
+   info - Use 'const' with the constructor to improve performance - lib\core\services\location_service.dart:63:7 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\main.dart:210:34 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\main.dart:211:25 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\home\home_screen.dart:241:32 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:242:23 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\login\login_screen.dart:366:26 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\login\login_screen.dart:367:17 - prefer_const_constructors
+
+flutter : 7 issues found. 
+(ran in 3.5s)
+At line:1 char:1
++ flutter analyze 2>&1 | 
+Out-File -FilePath 
+analysis_final.txt 
+-Encodin ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (7  
+   issues found. (ran i   
+ n 3.5s):String) [], R    
+emoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

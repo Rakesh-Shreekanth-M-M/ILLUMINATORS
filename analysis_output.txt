@@ -1,0 +1,69 @@
+﻿Analyzing ASTRA...                                              
+
+   info - The import of 'dart:ui' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\core\constants\app_colors.dart:1:8 - unnecessary_import
+   info - 'desiredAccuracy' is deprecated and shouldn't be used. use settings parameter with AndroidSettings, AppleSettings, WebSettings, or LocationSettings - lib\core\services\location_service.dart:51:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:126:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:230:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:243:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:285:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:304:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:341:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:366:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:446:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:469:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:501:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\green_corridor_screen.dart:559:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:174:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:186:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:196:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:221:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:248:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:286:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:289:52 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\home\home_screen.dart:319:28 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\home\home_screen.dart:329:28 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:357:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:437:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:468:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:492:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:515:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:22:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:42:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:176:69 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:179:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:188:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\widgets\notification_panel.dart:203:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:69:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:270:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:271:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:302:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\hospital_selection\hospital_selection_screen.dart:303:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:140:69 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:179:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:180:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\biometric_screen.dart:253:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\onboarding_screen.dart:68:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\onboarding_screen.dart:95:71 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\onboarding\onboarding_screen.dart:198:73 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:87:50 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\splash_screen.dart:136:26 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\splash_screen.dart:138:28 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\splash_screen.dart:140:35 - prefer_const_constructors
+
+flutter : 49 issues 
+found. (ran in 2.1s)
+At line:1 char:1
++ flutter analyze 2>&1 | 
+Out-File -FilePath 
+analysis_output.txt 
+-Encodi ...
++ ~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (4  
+  9 issues found. (ran    
+ in 2.1s):String) [],     
+RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

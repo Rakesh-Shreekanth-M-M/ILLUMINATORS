@@ -1,0 +1,21 @@
+﻿Launching lib\main.dart on Windows in debug mode...
+flutter : Error: Unable 
+to find suitable Visual 
+Studio toolchain. Please 
+run `flutter doctor` for 
+more details.
+At line:1 char:1
++ flutter run -d windows 
+2>&1 | Out-File -FilePath 
+run_output.txt -Enco ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo        
+      : NotSpecified: (E  
+  rror: Unable t...r mo   
+ re details.:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 

@@ -1,0 +1,52 @@
+﻿Upgrading build.gradle.kts
+Running Gradle task 'assembleDebug'...                          
+flutter : 
+At line:1 char:1
++ flutter build apk 
+--debug 2>&1 | 
+Out-File -FilePath 
+build_debug2.txt  ...
++ ~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~
+    + CategoryInfo    
+          : 
+NotSpecified: (:    
+String) [], RemoteExc 
+   eption
+    + 
+FullyQualifiedError   
+ Id : 
+NativeCommandErr    or
+ 
+FAILURE: Build failed 
+with an exception.
+
+* What went wrong:
+Execution failed for 
+task ':app:processDebu
+gGoogleServices'.
+> No matching client 
+found for package 
+name 
+'com.astra.astra' in D
+:\ASTRA\android\app\go
+ogle-services.json
+
+* Try:
+> Run with 
+--stacktrace option 
+to get the stack 
+trace.
+> Run with --info or 
+--debug option to get 
+more log output.
+> Run with --scan to 
+get full insights.
+> Get more help at htt
+ps://help.gradle.org.
+
+BUILD FAILED in 1m 41s
+Running Gradle task 'assembleDebug'...                            101.5s
+Gradle task 
+assembleDebug failed 
+with exit code 1

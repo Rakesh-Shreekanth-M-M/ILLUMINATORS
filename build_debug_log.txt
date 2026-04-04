@@ -1,0 +1,53 @@
+﻿Running Gradle task 'assembleDebug'...                          
+flutter : 
+At line:1 char:1
++ flutter build apk 
+--debug 2>&1 | Out-File 
+-FilePath 
+build_debug_log.t ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (:  
+  String) [], RemoteExc   
+ eption
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+FAILURE: Build failed 
+with an exception.
+
+* Where:
+Build file 'D:\ASTRA\andro
+id\build.gradle.kts' 
+line: 19
+
+* What went wrong:
+A problem occurred 
+configuring project 
+':app'.
+> Removing unused 
+resources requires unused 
+code shrinking to be 
+turned on. See http://d.an
+droid.com/r/tools/shrink-r
+esources.html for more 
+information.
+
+* Try:
+> Run with --stacktrace 
+option to get the stack 
+trace.
+> Run with --info or 
+--debug option to get 
+more log output.
+> Run with --scan to get 
+full insights.
+> Get more help at 
+https://help.gradle.org.
+
+BUILD FAILED in 1s
+Running Gradle task 'assembleDebug'...                           1,817ms
+Gradle task assembleDebug 
+failed with exit code 1
